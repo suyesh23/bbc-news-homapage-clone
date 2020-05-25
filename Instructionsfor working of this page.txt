@@ -1,0 +1,1 @@
+Put all the photos and bbc.html in one folder and run bbc.html in ur browser.
